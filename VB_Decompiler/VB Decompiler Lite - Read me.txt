@@ -1,0 +1,20 @@
+VB Decompiler Lite
+
+VB Decompiler is decompiler for programs (EXE, DLL or OCX) written in Visual Basic 5.0 and 6.0. As you know, 
+programs in Visual Basic can be compiled into interpreted p-code or into native code. 
+If a program was compiled into the native code, restoring full source code from machine instructions is not possible. 
+anyway you can edit any text or image which contained in EXE file .
+_____________________________________
+
+Just select EXE file, then edit any text and pictures, then compile edited data to new EXE file .
+
+_____________________________________
+
+Notice : this is DEMO version ( support Bmp and Jpeg only )
+you can get FULL version ( support Gif and Png also ) from my website.
+http://www.yazanmarkabi.Webs.com/
+
+If you have any suggesting, tell me , Em@l : ZaidMarkabi@yahoo.com
+
+Thanks,..
+Zaid Markabi
